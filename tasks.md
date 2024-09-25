@@ -18,6 +18,13 @@ Answer the following questions:
 - What do you think what is the advantage of extracting the file handling logic to the `file-store.js` and pass the store to the app and the underlying functions? Is this pattern familiar for you?
 - Why this AppError is created? For what does it good for?
 
+## 1.1 Check the GitHub actions
+
+- Check the automated tests executed by GitHub actions.
+- They are failing, what is the issue?
+- Correct them in a new branch.
+
+
 ## 2. User story: Complete a TODO
 
 As a user I can complete a todo, so my todos can be updated.
