@@ -40,8 +40,3 @@ Navigate to your newly created repo in your Github account.
 1. Clone your repo as usual.
 2. When the team mates are accepted the invitation, they can clone the repo too.
 
-## Install the Git Graph VS Code extension
-
-1. Click on the Extensions pane in VS Code
-2. Search for "Git Graph" [VS Code Marketplace: Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
-3. Install and Enable it.

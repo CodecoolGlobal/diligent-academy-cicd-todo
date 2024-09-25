@@ -1,6 +1,18 @@
+# Your awesome TODO App
 
-## Install the Git Graph VS Code extension
+## Preparing for the task
 
-1. Click on the Extensions pane in VS Code
-2. Search for "Git Graph" [VS Code Marketplace: Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
-3. Install and Enable it.
+This is a template repo, you need to use to create your own repo based on that,
+and you need to invite your team mates.
+
+Follow the instructions from the [prepare.md](./prepare.md)
+
+Using your favorite Git visualization tool like
+[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) 
+can be useful.
+
+If you got stuck with working with git branches, feel free to
+check the [git-cheatsheet.md](./git-cheatsheet.md) for help.
+
+## Tasks
+
