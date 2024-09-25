@@ -20,7 +20,7 @@ You will:
 
 1. Select your Github account for the Owner.
 2. You can name the repository as you want, it will be created with this name in your account.
-3. You can choose public or private repo. I would recommend private, because it is not a project just an exercise, maybe you don't want to everybody see it.
+3. You should choose **public** repo. The CI/CD tooling and GitHub Actions only working with public repos.
 4. You can keep include all branches unchecked.
 5. Click on the create repository
 
