@@ -1,7 +1,7 @@
 [
   {
-    "title": "Pet a cat.",
-    "done": false,
+    "title": "Pet a cat",
+    "done": true,
     "id": 1
   },
   {
@@ -10,12 +10,12 @@
     "id": 2
   },
   {
-    "title": "jkdasdjk askldjklasdj",
+    "title": "Walk with a dog",
     "done": false,
     "id": 3
   },
   {
-    "title": "Read a book.",
+    "title": "Read a book",
     "done": false,
     "id": 4
   }
