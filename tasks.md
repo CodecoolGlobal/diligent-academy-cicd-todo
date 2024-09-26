@@ -144,3 +144,7 @@ As a user I can filter my todos by a label, so I can check my grouping easily.
 - It has one parameter a non-zero length string. If it is not given, show a meaningful error message to the user.
 - Show the users the todos only where the given label can be found among the `labels` key array items. (exact, case sensitive match).
 - If there is no todos found, it is not an error case, just notify the user with a meaningful message.
+
+## 13. Refactor the todo.js
+
+Another refactoring session for the `todo.js` file.
